@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @matthewryanmckinney. I'm a trained field ecologist, but I really specialize in using GIS and R to solve conservation and species management problems.
+- 👀 I’m interested in using models and logic to solve problems of the "easier said than done" variety, such finding optimal pest management solutions, when the pest's spatial distribution is dynamic.
+- 🌱 I’m currently learning how to make better use of computers' processing power, through more efficient programming, to find better solutions faster. 
+- 📫 You can reach me at matthewryanmckinney@gmail.com. Thanks!
